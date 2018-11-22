@@ -11,7 +11,8 @@ Be the sole survivor, by _assassinating_ (* not litteraly please) the co-player 
 You were assigned a co-player as a victim and a word as a murder weapon.
 *If you can let the co-player say that word, he/she is dead.*
 
-You can not use the murder weapon word in the conversation yourself.
+You can not use the murder weapon word in the conversation yourself, also not translations of the word.
+As the words need to be said in English, it's better to have English conversations all the time!
 
 It's OK to have witnesses, it's even better, because then your victim can not deny the assassination.
 
