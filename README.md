@@ -1,1 +1,3 @@
-# the-assassin-game
+# The assassin game
+
+https://www.theassassingame.io
